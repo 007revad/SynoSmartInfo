@@ -1,7 +1,7 @@
 {
   "package": "Syno-Smart-Info",
   "name": "Synosmartinfo",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "description": "Syno Smart Info Checking Tool with Web API",
   "target": "./src",
   "install_type": "package",
@@ -16,7 +16,7 @@
     "distributor": "PeterSuh-Q3",
     "distributor_url": "https://github.com/PeterSuh-Q3/SynoSmartInfo",
     "support_url": "https://github.com/PeterSuh-Q3/SynoSmartInfo/issues",
-    "help_url": "https://github.com/PeterSuh-Q3/SynoSmartInfo#readme",
+    "help_url": "https://github.com/PeterSuh-Q3/SynoSmartInfo#README.md",
     "os_min_ver": "7.0-40337",
     "os_max_ver": "7.2-99999",
     "arch": "x86_64",
